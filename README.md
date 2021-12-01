@@ -1,2 +1,3 @@
 # SDSA
 the code of paper "Next Point-of-Interest Recommendation Based on Spatial Distance and Self-Attention"
+We use three check-in datasets, including two Foursquare datasets{Modeling user activity preference by leveraging user spatial temporal characteristics in LBSNs} and one Gowalla dataset{Friendship and mobility: user movement in location-based social networks}.Specifically, the two Foursquare user check-in datasets contain the check-in records of users in New York (NY) and Tokyo (TKY) from April 2012 to February 2013 on the Foursquare website.The Gowalla dataset contains the check-in records of users on the Gowalla website from February 2009 to October 2010.
