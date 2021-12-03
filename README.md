@@ -6,4 +6,5 @@ We use three check-in datasets, including two Foursquare datasets[1](https://xue
 
 
 [1] D  Yang,  D  Zhang,  Zheng V W , et al. Modeling User Activity Preference by Leveraging User Spatial Temporal Characteristics in LBSNs[J]. IEEE Transactions on Systems Man & Cybernetics Systems, 2014, 45(1):129-142.
+
 [2] Cho E ,  Myers S A ,  Leskovec J . Friendship and mobility: user movement in location-based social networks[C]// Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 21-24, 2011. ACM, 2011.
